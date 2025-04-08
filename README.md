@@ -24,6 +24,7 @@ I want to be game client developer
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 
 <br>
-
+<br>
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud7467)]
 </div>

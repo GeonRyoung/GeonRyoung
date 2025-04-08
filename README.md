@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&weight=2300&height=200&section=header&text=Welcome%20to%20GeonRyoung's%20Github)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=170&section=header&text=Welcome%20to%20GeonRyoung's%20Github)
 ### E-mail
 rjsfud7467@naver.com
 

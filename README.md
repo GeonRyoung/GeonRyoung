@@ -1,8 +1,11 @@
-## Welcome to GeonRyoung's Github 👋
+# Welcome to GeonRyoung's Github 👋
 
-## Introduction 
-# E-mail
+### E-mail
 rjsfud7467@naver.com
+
+### Introduction 
+🌱I'm currently learning c++.
+I majored in Computer Scinece in Yeungnam University(2022.03~).
 
 
 <!--

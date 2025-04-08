@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
-# Welcome to GeonRyoung's Github 👋
-
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&section=header&text=Welcome%20to%20GeonRyoung's%20Github)
 ### E-mail
 rjsfud7467@naver.com
 

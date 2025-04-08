@@ -1,7 +1,9 @@
-## Hi there 👋
+## Welcome to GeonRyoung's Github 👋
 
 ## Introduction 
-안녕하세요
+# E-mail
+rjsfud7467@naver.com
+
 
 <!--
 **GeonRyoung/GeonRyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+74

@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=250&section=header&text=Welcome%20to%20GeonRyoung's%20Github&fontSize=50)
-<p align="center">
+<div align="center">
 ### 📧E-mail   E-mail
 rjsfud7467@naver.com
 
@@ -14,4 +14,4 @@ I lived in Korea
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud7467)]
-</p>
+</div>

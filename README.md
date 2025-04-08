@@ -7,9 +7,8 @@ rjsfud7467@naver.com
 I majored in Computer Scinece in Yeungnam University(2022.03~).
 
 ### Least at once
-<img src=https://img.shields.io/badge/c>
-![Static Badge](https://img.shields.io/badge/c)
-<!--
+<img src=https://img.shields.io/badge/[C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)>
+
 **GeonRyoung/GeonRyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

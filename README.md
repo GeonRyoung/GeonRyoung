@@ -26,5 +26,6 @@ I want to be game client developer
 <br>
 <br>
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud7467)]
 </div>

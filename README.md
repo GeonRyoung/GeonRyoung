@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=250&section=header&text=Welcome%20to%20GeonRyoung's%20Github&fontSize=50)
 <div align="center">
-### 📧E-mail   E-mail
+
+### 📧E-mail
 rjsfud7467@naver.com
 
 ### 👋Introduction 

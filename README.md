@@ -7,7 +7,7 @@ rjsfud7467@naver.com
 I majored in Computer Scinece in Yeungnam University(2022.03~).
 
 ### Least at once
-<img/src=https://simpleicons.org/>
+<img/src=c>
 
 <!--
 **GeonRyoung/GeonRyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

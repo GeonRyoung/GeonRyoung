@@ -2,15 +2,10 @@
 <div align="center">
 
 ### 📧E-mail 
-<p align="center">
   <a href="mailto:rjsfud7467@naver.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    &nbsp;&nbsp;
-    <strong style="margin-left:10px;">rjsfud7467@gmail.com</strong>
   </a>
-</p>
 
-<br>
 <br>
 
 ### 👋Introduction 
@@ -18,13 +13,11 @@ I live in Daegu, South Korea. <br>
 I majored in Computer Scinece in Yeungnam University(2022.03~).<br>
 I want to be game client developer 
 
-<br>
 
 ### 📚Now Studying
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
 
 ### What I studied
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />

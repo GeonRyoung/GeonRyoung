@@ -22,7 +22,7 @@ I want to be game client developer
 
 <br>
 
-###What I studied
+### What I studied
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 

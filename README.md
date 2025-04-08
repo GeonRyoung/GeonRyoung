@@ -11,7 +11,7 @@
 ### 👋Introduction 
 I majored in Computer Scinece in Yeungnam University(2022.03~).<br>
 I lived in Korea <br>
-I want to be game developer 
+I want to be game client developer 
 
 <br>
 

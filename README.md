@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=250&section=header&text=Welcome%20to%20GeonRyoung's%20Github&fontSize=50)
 <div align="center">
 
-### 📧E-mail <a href="mailto:rjsfud7467@naver.com">
+### 📧E-mail 
+<p align="center">
+  <a href="mailto:rjsfud7467@naver.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <strong style="margin-left:10px;">rjsfud7467@naver.com</strong>
   </a>
+</p>
 
 <br>
 <br>

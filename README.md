@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:rjsfud7467@naver.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    <p>%100</p>
+    &nbsp;&nbsp;
     <strong style="margin-left:10px;">rjsfud7467@gmail.com</strong>
   </a>
 </p>

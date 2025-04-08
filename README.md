@@ -2,7 +2,9 @@
 <div align="center">
 
 ### 📧E-mail
-rjsfud7467@naver.com
+  <a href="mailto:rjsfud7467@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 
 <br>
 

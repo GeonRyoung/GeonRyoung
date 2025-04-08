@@ -19,7 +19,7 @@ I want to be game client developer
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### What I studied
+### 📘What I studied
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 
@@ -27,6 +27,6 @@ I want to be game client developer
 <br>
 <br>
 
-### BaekJoon Study
+### 📊BaekJoon Study
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud7467)]
 </div>

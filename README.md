@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=250&section=header&text=Welcome%20to%20GeonRyoung's%20Github&fontSize=50)
 <div align="center">
 
+### 👋Introduction 
+I live in Daegu, South Korea. <br>
+I majored in Computer Scinece in Yeungnam University(2022.03~).<br>
+I want to be game client developer 
+
 ### 📧E-mail 
   <a href="mailto:rjsfud7467@naver.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
@@ -8,10 +13,6 @@
 
 <br>
 
-### 👋Introduction 
-I live in Daegu, South Korea. <br>
-I majored in Computer Scinece in Yeungnam University(2022.03~).<br>
-I want to be game client developer 
 
 
 ### 📚Now Studying

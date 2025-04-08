@@ -4,9 +4,13 @@
 ### 📧E-mail
 rjsfud7467@naver.com
 
+<br>
+
 ### 👋Introduction 
 I majored in Computer Scinece in Yeungnam University(2022.03~).
 I lived in Korea
+
+<br>
 
 ### 📚Now Studying
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
